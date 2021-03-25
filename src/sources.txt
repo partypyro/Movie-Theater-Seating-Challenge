@@ -1,0 +1,5 @@
+main/java/model/Theater.java
+main/java/utils/FileManager.java
+main/java/utils/InputParser.java
+test/java/TestManager.java
+Main.java
